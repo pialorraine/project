@@ -1,24 +1,18 @@
 ,Population,Water Access %,Household Without Clean Water,Main Water Source,
-National Capital Region (NCR),"13,484,462",99.30%,94391,Piped Water,
-Region I - Ilocos Region,"5,301,139",99.10%,47710,"Deep Well, River",
-Region II - Cagayan Valley,"3,685,744",99.10%,33172,"Deep Well, River",
-Region III - Central Luzon,"12,422,172",99.30%,86955,"Piped, Deep Well",
-Region IV-A - CALABARZON,"16,195,042",98.70%,210536,"Piped, Deep Well",
-Region IV-B - MIMAROPA,"3,228,558",92.10%,255056,"Springs, Deep Well",
-Region V - Bicol Region,"6,082,165",90.10%,602134,"Deep Well, River",
-Region VI - Western Visayas,"7,914,841",94.70%,419487,"Piped, Deep Well",
-Region VII - Central Visayas,"8,081,988",94.70%,428345,"Piped, Deep Well",
-Region VIII - Eastern Visayas,"4,547,150",93.60%,291018,"Deep Well, River",
-Region IX - Zamboanga Peninsula,"3,876,452",90.20%,379892,"Deep Well, Springs",
-Region X - Northern Mindanao,"5,022,768",95.50%,226025,"Deep Well, Springs",
-Region XI - Davao Region,"5,243,536",97.30%,141575,"Piped, Deep Well",
-Region XII - SOCCSKSARGEN,"4,546,768",95.90%,186417,"Deep Well, River",
-Region XIII - Caraga,"2,804,788",94.00%,168287,"Deep Well, Springs",
-BARMM,"4,404,288",87.80%,537323,"River, Deep Well",
-CAR,"1,797,660",96.30%,66513,"Springs, Piped",
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+National Capital Region (NCR),"13,484,462",99.30%,94391,Piped Water
+Region I - Ilocos Region,"5,301,139",99.10%,47710,"Deep Well, River"
+Region II - Cagayan Valley,"3,685,744",99.10%,33172,"Deep Well, River"
+Region III - Central Luzon,"12,422,172",99.30%,86955,"Piped, Deep Well"
+Region IV-A - CALABARZON,"16,195,042",98.70%,210536,"Piped, Deep Well"
+Region IV-B - MIMAROPA,"3,228,558",92.10%,255056,"Springs, Deep Well"
+Region V - Bicol Region,"6,082,165",90.10%,602134,"Deep Well, River"
+Region VI - Western Visayas,"7,914,841",94.70%,419487,"Piped, Deep Well"
+Region VII - Central Visayas,"8,081,988",94.70%,428345,"Piped, Deep Well"
+Region VIII - Eastern Visayas,"4,547,150",93.60%,291018,"Deep Well, River"
+Region IX - Zamboanga Peninsula,"3,876,452",90.20%,379892,"Deep Well, Springs"
+Region X - Northern Mindanao,"5,022,768",95.50%,226025,"Deep Well, Springs"
+Region XI - Davao Region,"5,243,536",97.30%,141575,"Piped, Deep Well"
+Region XII - SOCCSKSARGEN,"4,546,768",95.90%,186417,"Deep Well, River"
+Region XIII - Caraga,"2,804,788",94.00%,168287,"Deep Well, Springs"
+BARMM,"4,404,288",87.80%,537323,"River, Deep Well"
+CAR,"1,797,660",96.30%,66513,"Springs, Piped"
